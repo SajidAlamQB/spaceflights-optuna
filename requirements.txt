@@ -5,3 +5,5 @@ kedro[jupyter]~=0.19.11
 kedro-datasets[pandas-csvdataset, pandas-exceldataset, pandas-parquetdataset]>=3.0
 kedro-viz>=6.7.0
 scikit-learn~=1.5.1
+optuna~=3.5.0
+sqlalchemy>=2.0.0
